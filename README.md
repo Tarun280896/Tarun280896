@@ -1,5 +1,7 @@
 ## Hi I'm Tarun 👋
 
+<a <img align="left" width="150" height="150" src="https://github.com/Tarun280896/Tarun280896/blob/master/AR_Tarun/AREmoji_20200809_125437_25508.gif?raw=true"></a>
+
 <!--
 **Tarun280896/Tarun280896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
