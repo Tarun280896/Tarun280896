@@ -1,7 +1,10 @@
 ## Hi I'm Tarun 👋
 
 <a> <img align="Right" width="150" height="150" src="https://github.com/Tarun280896/Tarun280896/blob/master/AR_Tarun/AREmoji_20200809_125437_25508.gif?raw=true"></a>
-
+* I’m currently working as a **Data Analyst** **@Shopalyst**.
+* My job role includes building NLP and machine learning models:
+    - here are some : Language models, topic modelling, text classification, regression.etc
+    - have experience on state of the art models like  BERT, Universal Sentence Encoder 
 <!--
 **Tarun280896/Tarun280896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
