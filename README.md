@@ -1,7 +1,7 @@
 ## Hi I'm Tarun 👋
 
-<a> <img align="Right" width="100" height="100" src="https://www.credential.net/embed/10c12d8e-f09a-46a2-9e5f-58ae836f5dba"></a>
-* <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32808089">Google Certified Tensorflow Developer</a>, currently working as a **Data Analyst** **@Shopalyst**.
+<a> <img align="Right" width="100" height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32808089"></a>
+* <a href="https://www.credential.net/embed/10c12d8e-f09a-46a2-9e5f-58ae836f5dba">Google Certified Tensorflow Developer</a>, currently working as a **Data Analyst** **@Shopalyst**.
 * My job role includes building NLP and machine learning models:
     - here are some : Language models, topic modelling, text classification, regression.etc
     - have experience on state of the art models like  BERT, Universal Sentence Encoder 
