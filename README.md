@@ -1,7 +1,7 @@
 ## Hi I'm Tarun 👋
 
 <a> <img align="Right" width="100" height="100" src="https://github.com/Tarun280896/Tarun280896/blob/master/AR_Tarun/162191404774.png?raw=true"></a>
-* <a "href="https://www.credential.net/10c12d8e-f09a-46a2-9e5f-58ae836f5dba#gs.2pq6n2">Google Certified Tensorflow Developer</a>, currently working as a **Data Analyst** **@Shopalyst**.
+* <a href="https://www.credential.net/10c12d8e-f09a-46a2-9e5f-58ae836f5dba#gs.2pq6n2">Google Certified Tensorflow Developer</a>, currently working as a **Data Analyst** **@Shopalyst**.
 * My job role includes building NLP and machine learning models:
     - here are some : Language models, topic modelling, text classification, regression.etc
     - have experience on state of the art models like  BERT, Universal Sentence Encoder 
