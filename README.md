@@ -4,7 +4,7 @@
 * <a href="https://www.credential.net/10c12d8e-f09a-46a2-9e5f-58ae836f5dba#gs.dhlf1c">Google Certified Tensorflow Developer</a>, currently working as a **Data Scientist** **@Vumonic Data Labs**.
 * My job role includes building NLP and machine learning models:
     - here are some : Language models, topic modelling, text classification, regression.etc
-    - have experience on state of the art models like  BERT, Universal Sentence Encoder 
+    - have experience on state of the art models like  BERT, Universal Sentence Encoder, GPT, Hugging Face Trasformers. 
 <!--
 **Tarun280896/Tarun280896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
